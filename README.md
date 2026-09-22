@@ -104,7 +104,7 @@
 <p>
 
 📧 Email:
-<a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+<a href="mailto:YOUR_EMAIL">1473927828@qq.com</a>
 
 <br>
 
@@ -121,22 +121,10 @@
 
 <td width="45%" valign="top">
 
-<br>
+<h2>📊 GitHub Stats</h2>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=LewisAcid&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=buefy&hide_border=false"
-  width="100%"
-/>
-
-<br>
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisAcid&layout=compact&langs_count=8&theme=buefy&hide_border=false"
-  width="100%"
-/>
+<p>
+  GitHub stats cards are temporarily unavailable.
+</p>
 
 </td>
-
-</tr>
-</table>
