@@ -104,7 +104,7 @@
 <p>
 
 📧 Email:
-<a href="mailto:YOUR_EMAIL">1473927828@qq.com</a>
+<a href="mailto:1473927828@qq.com">1473927828@qq.com</a>
 
 <br>
 
@@ -124,7 +124,45 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  GitHub stats cards are temporarily unavailable.
+  <a href="https://github.com/LewisAcid">
+    <img src="https://github-stats-extended.vercel.app/api?username=LewisAcid&show_icons=true&theme=buefy&include_all_commits=true" alt="LewisAcid's GitHub statistics">
+  </a>
 </p>
 
+<p>
+  <a href="https://github.com/LewisAcid?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LewisAcid&theme=buefy&layout=compact" alt="Most used languages in LewisAcid's public repositories">
+  </a>
+</p>
+
+<h2>🗂 Projects</h2>
+
+<!-- The block below is rewritten daily by .github/workflows/update-projects.yml -->
+
+<!-- PROJECTS:START -->
+
+<h3>🚀 Latest Projects</h3>
+
+<p><sub>Recently created public repositories, newest first. Updated daily.</sub></p>
+
+<ul>
+  <li><a href="https://github.com/LewisAcid/lerobot-robot-seeed-b601-TacCap"><b>lerobot-robot-seeed-b601-TacCap</b></a> <sub>· Python</sub><br><sub>No description provided</sub></li>
+  <li><a href="https://github.com/LewisAcid/MkDocsMaterialDemo"><b>MkDocsMaterialDemo</b></a><br><sub>No description provided</sub></li>
+</ul>
+
+<h3>🌱 Latest Forks</h3>
+
+<ul>
+  <li><a href="https://github.com/LewisAcid/TacCap-Gripper"><b>TacCap-Gripper</b></a><br><sub>No description provided</sub></li>
+  <li><a href="https://github.com/LewisAcid/DOBOT_NOVA5_ROS2_V4"><b>DOBOT_NOVA5_ROS2_V4</b></a><br><sub>About Demo of NOVA5 ; Dobot V4 version ROS2</sub></li>
+  <li><a href="https://github.com/LewisAcid/openpi"><b>openpi</b></a><br><sub>No description provided</sub></li>
+</ul>
+
+<p><a href="https://github.com/LewisAcid?tab=repositories">View all repositories →</a></p>
+
+<!-- PROJECTS:END -->
+
 </td>
+
+</tr>
+</table>
