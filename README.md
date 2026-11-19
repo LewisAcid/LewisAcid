@@ -153,9 +153,9 @@
 <h3>🌱 Latest Forks</h3>
 
 <ul>
-  <li><a href="https://github.com/LewisAcid/TacCap-Gripper"><b>TacCap-Gripper</b></a><br><sub>No description provided</sub></li>
   <li><a href="https://github.com/LewisAcid/DOBOT_NOVA5_ROS2_V4"><b>DOBOT_NOVA5_ROS2_V4</b></a><br><sub>About Demo of NOVA5 ; Dobot V4 version ROS2</sub></li>
   <li><a href="https://github.com/LewisAcid/openpi"><b>openpi</b></a><br><sub>No description provided</sub></li>
+  <li><a href="https://github.com/LewisAcid/Kalman-and-Bayesian-Filters-in-Python"><b>Kalman-and-Bayesian-Filters-in-Python</b></a> <sub>· Jupyter Notebook</sub><br><sub>Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience,…</sub></li>
 </ul>
 
 <p><a href="https://github.com/LewisAcid?tab=repositories">View all repositories →</a></p>
